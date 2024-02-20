@@ -1,0 +1,18 @@
+
+
+
+{
+  "translation": {
+    "hello":"Hello",
+    "this line is translated":"This is Ariyan Arif"
+  },
+  "navigation": {
+    "New Activity": "New Activity",
+    "Home": "Home",
+    "Sales Order": "Sales Order",
+    "Order Delivery": "Order Delivery", 
+    "Tailoring": "Tailoring",
+    "Items": "Items",
+    "Logout":"Logout"
+  }
+}

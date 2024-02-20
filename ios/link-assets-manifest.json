@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FN-Rojhan-Lipika-Bold.ttf",
+      "sha1": "aeafff40734a26101bfe3388ae07345a79569a03"
+    },
+    {
+      "path": "assets/fonts/Potro-Bold.ttf",
+      "sha1": "c270d6e334ac31c42862c71476bb3058945a039b"
+    },
+    {
+      "path": "assets/fonts/Potro-Medium.ttf",
+      "sha1": "39b6e4492598282ea71a4faa6cd2d1eb32d19c8b"
+    },
+    {
+      "path": "assets/fonts/Potro-Regular.ttf",
+      "sha1": "3d7a6f5b296db4cbcc535041de274ff376be32c6"
+    },
+    {
+      "path": "assets/fonts/Potro-SemiBold.ttf",
+      "sha1": "79331f2089925976474d91c63c16ce384611875b"
+    },
+    {
+      "path": "assets/fonts/PotroSansBangla-Bold.ttf",
+      "sha1": "c270d6e334ac31c42862c71476bb3058945a039b"
+    }
+  ]
+}

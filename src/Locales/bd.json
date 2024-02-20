@@ -1,0 +1,18 @@
+
+
+{
+  "translation": {
+    "hello": "হাই",
+    "this line is translated": "দিস ইজ আরিয়ান আরিফ"
+  },
+  "navigation": {
+    "New Activity": "নিউ এক্টিভিটি", 
+    "Home": "হোম",
+    "Sales Order": "সেলস অর্ডার",
+    "Order Delivery": "অর্ডার ডেলিভারি", 
+    "Tailoring": "টেইলরিং",
+    "Items": "আইটেম",
+    "Logout":"লগ আউট" 
+  }
+}
+
